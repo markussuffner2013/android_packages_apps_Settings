@@ -5020,8 +5020,8 @@
     <string name="set">Set</string>
 
     <!-- PACStats -->
-    <string name="pacman_stats">ProBamStats</string>
-    <string name="pacman_stats_summary">View ProBam ROM statistics</string>
+    <string name="probam_stats">ProBamStats</string>
+    <string name="probam_stats_summary">View ProBam ROM statistics</string>
 
     <!-- PAC Console -->
     <string name="pacconsole_title">PAC-MAN Rom Settings</string>
