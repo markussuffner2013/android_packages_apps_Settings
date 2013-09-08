@@ -55,7 +55,7 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment {
 
     private static final String KEY_CONTAINER = "container";
     private static final String KEY_TEAM = "team";
-    private static final String PAC_ROM_SHARE = "share";
+    private static final String PROBAM_ROM_SHARE = "share";
     private static final String KEY_REGULATORY_INFO = "regulatory_info";
     private static final String KEY_TERMS = "terms";
     private static final String KEY_LICENSE = "license";
