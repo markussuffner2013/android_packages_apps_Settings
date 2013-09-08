@@ -584,7 +584,7 @@
     <!-- System tab title. [CHAR LIMIT=20] -->
     <string name="system_label">System</string>
     <!-- PAC tab title. [CHAR LIMIT=20] -->
-    <string name="pac_label">PAC-man</string>
+    <string name="pac_label">ProBam Settings</string>
     <!-- Label for option to select a settings panel as a shortcut -->
     <string name="settings_shortcut">Settings shortcut</string>
     <!-- Wireless controls settings screen, setting check box label -->
@@ -4605,7 +4605,7 @@
 
     <!-- About phone titles -->
     <string name="pac_man_title">PAC-man</string>
-    <string name="pac_title">PAC-man info</string>
+    <string name="pac_title">ProBam info (PAC edition)</string>
     <string name="device_about_title">Device info</string>
 
     <!-- Contributors strings -->
@@ -4741,7 +4741,7 @@
     <string name="title_tile_desktop_mode">Pie</string>
     <string name="title_tile_hybrid">@string/hybrid_settings</string>
     <string name="title_tile_volume">Volume</string>
-    <string name="title_tile_pib">PAC in Black</string>
+    <string name="title_tile_pib">ProBam in Black</string>
     <string name="title_tile_music">Music</string>
     <string name="title_tile_rocket_launcher">Rocket Launcher</string>
 
@@ -4895,7 +4895,10 @@
     <string name="pa_version_default">Unknown</string>
 
     <string name="pac_version">PAC version</string>
+    <string name="pac_version_default">Unknown</string>
 
+    <string name="probam_version">ProBam version</string>
+    <string name="probam_version_default">Unknown</string>
     <!-- ======================================================================================= -->
     <!-- AOKP -->
     <!-- ======================================================================================= -->
@@ -4909,7 +4912,7 @@
     <string name="header_category_dark">Make It Dark</string>
 
     <!-- TRDS Settings -->
-    <string name="trds_settings_title">PAC in Black</string>
+    <string name="trds_settings_title">ProBam in Black</string>
 
     <string name="vibration_title">Phone vibration</string>
 
@@ -5017,16 +5020,16 @@
     <string name="set">Set</string>
 
     <!-- PACStats -->
-    <string name="pacman_stats">PACStats</string>
-    <string name="pacman_stats_summary">View PAC-Man ROM statistics</string>
+    <string name="pacman_stats">ProBamStats</string>
+    <string name="pacman_stats_summary">View ProBam ROM statistics</string>
 
     <!-- PAC Console -->
     <string name="pacconsole_title">PAC-MAN Rom Settings</string>
 
     <!-- Share PAC-Man ROM -->
-   <string name="share_pacrom">Share PAC-Man ROM</string>
-   <string name="share_pacrom_summary">Let people know you use PAC-Man ROM</string>
-   <string name="share_message">Try PAC-Man ROM! \nWebsite : http://pac-rom.com \nIRC : #pac-rom \nDownload : http://pacman.basketbuild.com</string>
+   <string name="share_pacrom">Share ProBam ROM</string>
+   <string name="share_pacrom_summary">Let people know you use ProBam ROM</string>
+   <string name="share_message">Try PAC-Man ROM! \nWebsite : http://www.probam.net/ </string>
    <string name="share_chooser_title">Via..</string>
 
     <!-- Lockscreen Security Options -->

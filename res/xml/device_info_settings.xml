@@ -42,7 +42,14 @@
             android:key="share"
             android:title="@string/share_pacrom"
             android:summary="@string/share_pacrom_summary" />
-
+        
+		<!-- ProBam Stats -->
+        <PreferenceScreen
+            android:key="probam_stats"
+            android:title="@string/probam_stats"
+            android:summary="@string/probam_stats_summary" >
+        </PreferenceScreen>
+		
         </PreferenceCategory>
 
         <PreferenceCategory
@@ -184,11 +191,17 @@
                 android:title="@string/kernel_version"
                 android:summary="@string/device_info_default"/>
 
+        <!-- ProBam version -->
+        <Preference android:key="probam_version"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/probam_version"
+                android:summary="@string/probam_version_default" />
+
         <!-- PAC version -->
         <Preference android:key="pac_version"
                 style="?android:preferenceInformationStyle"
                 android:title="@string/pac_version"
-                android:summary="@string/mod_version_default" />
+                android:summary="@string/pac_version_default" />
 
         <!-- AOKP version -->
         <Preference android:key="aokp_version"
