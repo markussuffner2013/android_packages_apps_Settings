@@ -4604,12 +4604,12 @@
     <string name="changelog_version">Version</string>
 
     <!-- About phone titles -->
-    <string name="pac_man_title">PAC-man</string>
+    <string name="pac_man_title">ProBam info (PAC edition)</string>
     <string name="pac_title">ProBam info (PAC edition)</string>
     <string name="device_about_title">Device info</string>
 
     <!-- Contributors strings -->
-    <string name="pac_title">PAC-man info</string>
+    <string name="pac_title">ProBam info (PAC edition)</string>
     <string name="contributors_title">View contributors</string>
     <string name="contributors_loading">Loading contributors\u2026</string>
     <string name="contributors_error">Unable to load contributors</string>
@@ -5024,7 +5024,7 @@
     <string name="probam_stats_summary">View ProBam ROM statistics</string>
 
     <!-- PAC Console -->
-    <string name="pacconsole_title">PAC-MAN Rom Settings</string>
+    <string name="pacconsole_title">ProBam Settings</string>
 
     <!-- Share PAC-Man ROM -->
    <string name="share_pacrom">Share ProBam ROM</string>
