@@ -47,7 +47,7 @@ import java.util.List;
 
 public class Settings extends Activity {
 
-    private static final String[] titles = { "System", "PAC-Man" };
+    private static final String[] titles = { "System", "ProBam" };
     private LayoutInflater mInflater;
     private List<View> listViews;
     private LocalActivityManager localManager;

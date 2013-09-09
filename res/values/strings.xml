@@ -5029,7 +5029,7 @@
     <!-- Share PAC-Man ROM -->
    <string name="share_pacrom">Share ProBam ROM</string>
    <string name="share_pacrom_summary">Let people know you use ProBam ROM</string>
-   <string name="share_message">Try PAC-Man ROM! \nWebsite : http://www.probam.net/ </string>
+   <string name="share_message">Try ProBam ROM! \nWebsite : http://www.probam.net/ </string>
    <string name="share_chooser_title">Via..</string>
 
     <!-- Lockscreen Security Options -->
