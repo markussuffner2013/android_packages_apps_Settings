@@ -2134,6 +2134,8 @@
             android:exported="false"/>
         <service android:name=".aokp.weather.WeatherRefreshService" />
         <service android:name=".aokp.weather.WeatherService" />
+        
+        <activity android:name=".SettingsTabs" />
 
     </application>
 </manifest>

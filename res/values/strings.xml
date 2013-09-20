@@ -5046,10 +5046,17 @@
     <string name="pacconsole_title">ProBam Settings</string>
 
     <!-- Share PAC-Man ROM -->
-   <string name="share_pacrom">Share ProBam ROM</string>
-   <string name="share_pacrom_summary">Let people know you use ProBam ROM</string>
-   <string name="share_message">Try ProBam ROM! \nWebsite : http://www.probam.net/ </string>
-   <string name="share_chooser_title">Via..</string>
+    <string name="share_pacrom">Share ProBam ROM</string>
+    <string name="share_pacrom_summary">Let people know you use ProBam ROM</string>
+    <string name="share_message">Try ProBam ROM! \nWebsite : http://www.probam.net/ </string>
+    <string name="share_chooser_title">Via..</string>
+   
+    <!-- PAC Settings Splitup -->
+    <string name="settings_ui">Settings UI</string>
+    <string name="settings_splitup">Settings Splitup</string>
+    <string name="settings_splitup_title">Splitup with</string>
+    <string name="settings_splitup_tabs">Tabs</string>
+    <string name="settings_splitup_tabsswipe">Tabs + Swipe</string>
 
     <!-- Lockscreen Security Options -->
     <string name="lock_before_unlock_title">Show slider before secure unlock</string>
